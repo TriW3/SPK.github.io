@@ -14,4 +14,16 @@ kemudian untuk kolom bobot nilai merupakan besaran nilai atau bobot dari masing-
 ![3  simulasi kredit](https://github.com/TriW3/SPK.github.io/assets/100888453/29dbdf85-b5b3-4e91-b2db-275c00aafcd1)<br> 
 * jumlah bunga : didapatkan dari besar pinjaman (1) dikalikan dengan besar bunga yang dibebankan (3) <br>
 * total tanggungan : didapatkan dari besar pinjaman (1) ditambahkan dengan besar bunga yang dibebankan <br> 
-* angsuran : didapatkan dari total tanggungan yang dibagi dengan lama peminjaman yang diminta / jatuh tempo (2) <br> 
+* angsuran : didapatkan dari total tanggungan yang dibagi dengan lama peminjaman yang diminta / jatuh tempo (2) <br>
+### pemilihan kriteria menggunakan dropdown button<br>
+![4  dropdown simulasi kredit](https://github.com/TriW3/SPK.github.io/assets/100888453/13daaa16-7301-40d1-a94b-2928ac68c003)<br>
+### berikut merupakan kebijakan atau peraturan yang berlaku untuk calon nasabah dapat mengajukan peminjaman kepada BPR Amanah<br>
+![5  peraturan peminjaman](https://github.com/TriW3/SPK.github.io/assets/100888453/e4c80e57-8f66-4676-932a-2c500ad9b8c5)<br> 
+### besar pembobotan dari setiap kroteria yang ada <br> 
+![6  status point](https://github.com/TriW3/SPK.github.io/assets/100888453/845a6de1-3c9c-48a4-a34d-e9e7175bd157)<br> 
+seperti yang telah dikatakan diatas bahwa setiap kriteria mempunyai poin atau bobot masingmasing yang akan berpengaruh pada hasil rekomendasi apakah calon nasabah akan diberikan peminjaman atau tidak, bobot tersebut telah diputuskan dari setiap kategori dengan pertimbangan yang telah diputuskan sebelumnya untuk masing-masing kategorinya.<br> 
+### kriteria bagi nasabah yang layak untuk mendapatkan peminjaman dari BPR Amanah<br>
+![7  kriteria penilaian layak mendapat pinjaman](https://github.com/TriW3/SPK.github.io/assets/100888453/068879c2-0681-4123-9eeb-cfa60dba7f31)<br> 
+### kriteria penangguhan untuk memberikan peminjaman kepada calon nasabah<br>  
+![8  kriteria penilaian pinjaman ditangguhkan](https://github.com/TriW3/SPK.github.io/assets/100888453/69ac00ce-87d3-4936-8626-35a54958642d)
+<br>
